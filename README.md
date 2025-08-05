@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hey 👋 I'm Suniti Jha</h1>
 <p align="center">
@@ -35,7 +34,7 @@
 - 🧠 **GeminiLens**: AI-powered OCR chatbot using Gemini API, Cloudinary, and MongoDB  
   → Extract text, ask questions, get sticky notes & auto summaries
   
-  🔍 OCR Info Extractor: Image-to-text tool using Tesseract OCR, Node.js & Cloudinary
+  🔍 **OCR Info Extractor: Image-to-text tool using Tesseract OCR, Node.js & Cloudinary
    → Upload images, extract text, and get smart responses with Gemini API
 
 - 🛍️ **Amazon UI Clone**: Fully responsive homepage using HTML, CSS & JS
@@ -54,10 +53,10 @@
 
 ### 🌐 Connect with Me
 
-[![Portfolio](https://sunitiportfolio-15.netlify.app/)]  
-[![LinkedIn](https://www.linkedin.com/in/suniti-jha-14496822a/)]  
-[![LeetCode](https://leetcode.com/u/sjsuniti1512/)]
-[![GitHub](https://github.com/sjsuniti)]
+[![Portfolio](https://sunitiportfolio-15.netlify.app/) 
+[![LinkedIn](https://www.linkedin.com/in/suniti-jha-14496822a/) 
+[![LeetCode](https://leetcode.com/u/sjsuniti1512/)
+[![GitHub](https://github.com/sjsuniti)
 
 ---
 
