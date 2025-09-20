@@ -72,7 +72,6 @@
 
 ### 🌐 Connect with Me
 
-- LeetCode: [https://leetcode.com/u/sjsuniti/]
 - LinkedIn: [https://www.linkedin.com/in/suniti-jha-14496822a/]
 - Email:    [sjsuniti1512@gmail.com]
 - Portfolio: [https://sunitiportfolio-15.netlify.app/]
