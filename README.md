@@ -8,7 +8,15 @@
 
 ### 🌟 About Me
 
-const suniti = { role: "Software Developer", code: ["JavaScript", "TypeScript", "C++"], frontend: ["React", "Vite", "Tailwind CSS"], backend: ["Node.js", "Express.js"], database: ["MongoDB"], ai: ["Gemini API", "Tesseract OCR"], currentFocus: [ "Full Stack Development", "System Design", "Data Structures & Algorithms", "AI-Powered Applications" ], motto: "Build. Learn. Improve. Repeat." };
+const suniti = { role: "Software Developer", 
+    code: ["JavaScript", "TypeScript", "C++"],
+    frontend: ["React", "Vite", "Tailwind CSS"], 
+    backend: ["Node.js", "Express.js"], database: ["MongoDB"], ai
+    : ["Gemini API", "Tesseract OCR"],
+    currentFocus: [ "Full Stack Development", "System Design", "Data Structures & Algorithms", "AI-Powered Applications" 
+], 
+    motto: "Build. Learn. Improve. Repeat."
+};
 
 ---
 
