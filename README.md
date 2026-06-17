@@ -8,10 +8,7 @@
 
 ### 🌟 About Me
 
-- 🧑‍💻 I'm a passionate developer exploring full-stack web development  
-- 💡 Currently building **GeminiLens**: an AI-powered OCR + Chatbot tool  
-- 🎮 Also working on a **3D multiplayer Tic Tac Toe** using React Three Fiber  
-- 🧩 I love learning by doing — and pushing ideas from “what if” to “why not?”
+const suniti = { role: "Software Developer", code: ["JavaScript", "TypeScript", "C++"], frontend: ["React", "Vite", "Tailwind CSS"], backend: ["Node.js", "Express.js"], database: ["MongoDB"], ai: ["Gemini API", "Tesseract OCR"], currentFocus: [ "Full Stack Development", "System Design", "Data Structures & Algorithms", "AI-Powered Applications" ], motto: "Build. Learn. Improve. Repeat." };
 
 ---
 
