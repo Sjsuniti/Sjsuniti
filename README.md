@@ -1,5 +1,11 @@
+<div align="center">
 
-<h1 align="center">Hey 👋 I'm Suniti Jha</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=booting+Suniti+OS...;Backend+Engineer+%7C+AI+Explorer;Building+Scalable+Systems...;Welcome+Recruiter!" />
+
+</div>
+
+
+
 <p align="center">
   💻 Full Stack Explorer | 🌐 Web + AI + 3D Enthusiast | 🧠 Lifelong Learner
 </p>
@@ -49,47 +55,109 @@ const suniti = {
 ![Drei](https://img.shields.io/badge/-drei-0C1A29?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
 
 
-**Languages**:  
-`JavaScript` | `TypeScript` | `C++` | `HTML` | `CSS` | `Node.js`
+---
 
-**Frameworks & Libraries**:  
-`React` | `Express` | `MongoDB` | `Socket.IO` | `Three.js` | `EJS`
+## ⚡ Skills
 
-**Tools**:  
-`VS Code` | `Git & GitHub` | `Render` | `Cloudinary` | `Postman`  
-`Tesseract OCR` | `Google Gemini API` | `Pinecone DB`
+```bash
+suniti@developer:~$ cat skills.txt
+
+Languages : JavaScript • TypeScript • C++
+
+Frontend  : React • Vite • Tailwind CSS
+
+Backend   : Node.js • Express • Socket.IO
+
+Database  : MongoDB • Redis
+
+AI        : Gemini API • Tesseract OCR
+
+Tools     : Git • GitHub • Postman • Cloudinary
+```
 
 ---
 
-### 🛠️ Projects 
+## 🚀 Featured Projects
 
-- 🧠 **GeminiLens**: AI-powered OCR chatbot using Gemini API, Cloudinary, and MongoDB  
-  → Extract text, ask questions, get sticky notes & auto summaries
-  
-  🔍 **OCR Info Extractor: Image-to-text tool using Tesseract OCR, Node.js & Cloudinary
-   → Upload images, extract text, and get smart responses with Gemini API
+```bash
+suniti@developer:~/projects$ ls
 
-- 🛍️ **Amazon UI Clone**: Fully responsive homepage using HTML, CSS & JS
+📦 High-Performance-Chat-Server
+   ├── JWT Authentication
+   ├── Socket.IO
+   ├── Group Chats
+   └── Real-Time Messaging
 
-- 💬 **Chatbot Integration**: Node.js chatbot with custom logic and MongoDB persistence
+📦 PayFlow
+   ├── Payment APIs
+   ├── Wallet
+   ├── UPI
+   └── Transaction Processing
+
+📦 GeminiLens
+   ├── OCR
+   ├── Gemini AI
+   ├── Smart Notes
+   └── AI Summaries
+```
+
+---
+
+## 📚 Current Mission
+
+```bash
+suniti@developer:~$ current_status
+
+✔ Learning TypeScript
+
+✔ Learning Redis
+
+✔ Learning Docker
+
+✔ Solving DSA
+
+✔ Building Backend Projects
+```
 
 ---
 
-### 🌱 Currently Learning
+## 🌐 Connect
 
-- 📘 TypeScript (with hands-on examples and a final project!)  
-- 📚 DSA (with a goal to shine on LeetCode + LinkedIn)  
-- 🛠️ Backend-heavy Full Stack practices with projects and SaaS thinking
+```bash
+suniti@developer:~$ ./connect.sh
 
----
+LinkedIn  : linkedin.com/in/suniti-jha-14496822a
 
-### 🌐 Connect with Me
+Portfolio : sunitiportfolio-15.netlify.app
 
-- LinkedIn: [https://www.linkedin.com/in/suniti-jha-14496822a/]
-- Email:    [sjsuniti1512@gmail.com]
-- Portfolio: [https://sunitiportfolio-15.netlify.app/]
+Email     : sjsuniti1512@gmail.com
+```
 
 ---
+
+```cpp
+while(!dreamCompany){
+
+    learn();
+
+    build();
+
+    solveDSA();
+
+    repeat();
+
+}
+```
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Sjsuniti&show_icons=true&theme=chartreuse-dark&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sjsuniti&theme=chartreuse-dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sjsuniti&layout=compact&theme=chartreuse-dark&hide_border=true)
+
+</div>
 
 📌 *Welcome to my corner of the internet — where curiosity meets code.*
 
